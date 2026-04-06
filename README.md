@@ -1,5 +1,5 @@
-# new-balance
-E-Commerce application
+
+
 <img width="493" height="977" alt="Screenshot (163)" src="https://github.com/user-attachments/assets/11cc2b77-c938-4534-bb4d-1bc38051ad75" />
 <img width="484" height="959" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/38c2e3ff-030f-4ba9-ab7e-7c18c4ccf944" />
 <img width="483" height="966" alt="Screenshot (168)" src="https://github.com/user-attachments/assets/0754b626-314d-4313-a5b8-a23eca989235" />
