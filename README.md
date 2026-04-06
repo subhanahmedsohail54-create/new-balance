@@ -1,4 +1,3 @@
-
  Register page
 <img width="493" height="977" alt="Screenshot (163)" src="https://github.com/user-attachments/assets/11cc2b77-c938-4534-bb4d-1bc38051ad75" />
 Login page
