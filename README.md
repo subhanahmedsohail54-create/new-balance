@@ -1,5 +1,6 @@
 Register page
 <img width="493" height="977" alt="Screenshot (163)" src="https://github.com/user-attachments/assets/11cc2b77-c938-4534-bb4d-1bc38051ad75" />
+The Register Page allows new users to create an account by entering basic details like name, email, and password, enabling them to access the Shoes App features.
 Login page
 <img width="484" height="959" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/38c2e3ff-030f-4ba9-ab7e-7c18c4ccf944" />
 Home page
