@@ -11,9 +11,17 @@ Login page
 The Login Page allows users to access the Shoes App by entering their email and password. It verifies credentials and provides secure access to features like browsing shoes, viewing details, and managing the wishlist or cart.
 
 Home page
+
 <img width="483" height="966" alt="Screenshot (168)" src="https://github.com/user-attachments/assets/0754b626-314d-4313-a5b8-a23eca989235" />
+
+The Home Screen is the main interface of the Shoes App, featuring an App Bar, search bar, and dark mode option. It displays all shoes in a grid/list format, allowing users to easily browse, search, switch themes, and view product details for a smooth shopping experience.
+
 Drawer page
+
 <img width="489" height="969" alt="Screenshot (169)" src="https://github.com/user-attachments/assets/2618e3ab-4f62-44a2-90a3-d05146ac732a" />
+
+The drawer page provides easy navigation to key sections like Home, Favorites, and Cart, allowing users to quickly access content, saved items, and selected products in a simple and user-friendly way
+
 Favorite page
 <img width="490" height="954" alt="Screenshot (170)" src="https://github.com/user-attachments/assets/50dbbf86-5885-4bd2-aa12-79e25163f975" />
 Detail page
