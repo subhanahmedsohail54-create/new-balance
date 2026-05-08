@@ -7,7 +7,9 @@ The Register Page allows new users to create an account by entering basic detail
 Login page
 
 <img width="484" height="959" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/38c2e3ff-030f-4ba9-ab7e-7c18c4ccf944" />
+
 The Login Page allows users to access the Shoes App by entering their email and password. It verifies credentials and provides secure access to features like browsing shoes, viewing details, and managing the wishlist or cart.
+
 Home page
 <img width="483" height="966" alt="Screenshot (168)" src="https://github.com/user-attachments/assets/0754b626-314d-4313-a5b8-a23eca989235" />
 Drawer page
